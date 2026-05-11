@@ -13,6 +13,7 @@ class Bid{
 
     }
     paper(){
+        console.log("Es una prueba");
         return this._paper;
     }
     reviewer(){
