@@ -14,6 +14,7 @@ class Bid{
     }
     paper(){
         console.log("Es una prueba");
+        console.log("No es un conflicto");
         return this._paper;
     }
     reviewer(){
