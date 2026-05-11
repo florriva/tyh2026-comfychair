@@ -17,6 +17,7 @@ class Bid{
         return this._paper;
     }
     reviewer(){
+		console.log("Es una prueba");
         return this._reviewer;
     }
     interest(){
